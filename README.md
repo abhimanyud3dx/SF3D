@@ -1,2 +1,2 @@
 # SF3D
-Three.js implementation in salesforce to view Live 3d preview of Products.
+Implementation of 3d file viewer in salesforce to view Live 3d preview of Products.
